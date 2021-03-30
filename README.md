@@ -2,7 +2,7 @@
 I am a 9th standard student from India, and mostly interested in
 - App Development
 - System Programming
-#### Most Used Languages
+#### Most Used Languages  :computer:  :desktop_computer:
 - C++ <img src="assets/cpp.png">
 - Go <img src="assets/golang.png">
 - JavaScript <img src="assets/js.png">
