@@ -2,12 +2,12 @@
 I am a 9th standard student from India, and mostly interested in
 - App Development
 - System Programming
-#### Most Used Languages  :computer:  :desktop_computer:
+####  :computer:  :desktop_computer: Most Used Languages
 - C++ <img src="assets/cpp.png">
 - Go <img src="assets/golang.png">
 - JavaScript <img src="assets/js.png">
 - Python <img src="assets/py.png">
 
-#### Profiles
+#### :frowning_man: Profiles 
 - [HackerRank](https://www.hackerrank.com/soubikbhuiwk007)
 - [CodeWars](https://www.codewars.com/users/soubikbhuiwk007)
