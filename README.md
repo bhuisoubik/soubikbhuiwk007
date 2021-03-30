@@ -8,6 +8,6 @@ I am a 9th standard student from India, and mostly interested in
 - JavaScript <img src="assets/js.png">
 - Python <img src="assets/py.png">
 
-#### :frowning_man: Profiles 
+#### Profiles 
 - [HackerRank](https://www.hackerrank.com/soubikbhuiwk007)
 - [CodeWars](https://www.codewars.com/users/soubikbhuiwk007)
