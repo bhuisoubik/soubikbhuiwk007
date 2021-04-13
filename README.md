@@ -8,6 +8,3 @@ I am a 9th standard student from India, and mostly interested in
 - Go ![Go](assets/golang.png)
 - JavaScript ![JavaScript](assets/js.png)
 - Python ![Python](assets/py.png)
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=soubikbhuiwk007&show_icons=true&theme=dracula" alt="Soubik Bhui's Github Stats">
