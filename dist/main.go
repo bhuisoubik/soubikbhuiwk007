@@ -2,6 +2,7 @@ package main
 
 import (  
   "fmt" 
+  "bufio"
 )
 
 import (
@@ -9,9 +10,8 @@ import (
 )
 
 func main() {
-  var name string
+  rd := bufio.NewReader(os.Stdin)
   fmt.Println("Enter name:")
-  fmt.Scanln(&name)
-  fmt.Println(name)
-  fmt.Println(os.Getwd)
+  name, _ := rd.ReadString('\n')
+  fmt.Printf("Hello %v", name)
 }
