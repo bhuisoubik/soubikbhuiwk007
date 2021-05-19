@@ -2,7 +2,7 @@ package main
 
 import (  
   "fmt" 
-  "bufio"
+  b "bufio"
 )
 
 import (
@@ -10,7 +10,7 @@ import (
 )
 
 func main() {
-  rd := bufio.NewReader(os.Stdin)
+  rd := b.NewReader(os.Stdin)
   fmt.Println("Enter name:")
   name, _ := rd.ReadString('\n')
   fmt.Printf("Hello %v", name)
