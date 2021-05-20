@@ -1,16 +1,16 @@
 package main
 
 import (  
-  "fmt" 
-  b "bufio"
+  brainfuck "github.com/soubikbhuiwk007/brainfuck/bf"
 )
 
-import "os"
+import "fmt"
 
 
 func main() {
-  rd := b.NewReader(os.Stdin)
-  fmt.Println("Enter name:")
-  name, _ := rd.ReadString('\n')
-  fmt.Printf("Hello %v", name)
+  fmt.Println("Starting..")
+  brainfuck.Prase(`
+    ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
+  `)
+  fmt.Println("Completed..")
 }
