@@ -5,9 +5,8 @@ import (
   b "bufio"
 )
 
-import (
-  "os"
-)
+import "os"
+
 
 func main() {
   rd := b.NewReader(os.Stdin)
