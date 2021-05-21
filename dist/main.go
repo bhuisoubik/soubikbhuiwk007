@@ -1,16 +1,10 @@
 package main
 
-import (  
-  brainfuck "github.com/soubikbhuiwk007/brainfuck/bf"
+import (
+  "os"
+  "fmt"
 )
 
-import "fmt"
-
-
 func main() {
-  fmt.Println("Starting..")
-  brainfuck.Prase(`
-    ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
-  `)
-  fmt.Println("Completed..")
+  fmt.Println(os.Getenv("GOPATH"))
 }
