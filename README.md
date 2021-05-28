@@ -1,7 +1,7 @@
 ## :wave: Hi, I am Soubik Bhui :wave:
 I am a 9th standard student from India, and mostly interested in
 - App Development
-- System Programming
+- .NET Development
 
 #### Most Used Languages
 - C++ ![C++](assets/cpp.png)
