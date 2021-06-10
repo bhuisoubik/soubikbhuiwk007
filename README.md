@@ -9,7 +9,7 @@ I am a 9th standard student from India, and mostly interested in
 - JavaScript ![JavaScript](assets/js.png)
 - Python ![Python](assets/py.png)
 
-🌱 Currently learning *functional programming* in *`F#`*
+Checkout https://soubikbhuiwk007.github.io/
 
 ---
 ### Here are some of my Open Source Projects
