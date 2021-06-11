@@ -3,11 +3,8 @@ I am a 9th standard student from India, and mostly interested in
 - App Development
 - .NET Development
 
-#### Most Used Languages
-- C++ ![C++](assets/cpp.png)
-- Go ![Go](assets/golang.png)
-- JavaScript ![JavaScript](assets/js.png)
-- Python ![Python](assets/py.png)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soubikbhuiwk007&langs_count=4&hide=css&theme=dracula&show_icons=true)
+
 
 Checkout my personal website [soubikbhuiwk007.github.io](https://soubikbhuiwk007.github.io/)
 
