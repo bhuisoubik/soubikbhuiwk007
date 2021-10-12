@@ -1,12 +1,9 @@
 ## :wave: Hi, I am Soubik Bhui :wave:
-I am a 9th standard student from India, and mostly interested in
-- App Development
-- .NET Development
+I am a high student from India
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soubikbhuiwk007&langs_count=4&hide=css&theme=light&show_icons=true)
+Currently I am spending most of my time in [Codewars](https://www.codewars.com/users/soubikb) *(that's why I am not contributing much nowadays)*
 
-
-Checkout my personal website [soubikbhuiwk007.github.io](https://soubikbhuiwk007.github.io/)
+![Codewars (@soubikb)](https://www.codewars.com/users/soubikb/badges/large)
 
 ---
 ### Here are some of my Open Source Projects
